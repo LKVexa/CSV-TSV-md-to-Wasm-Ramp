@@ -1,0 +1,24 @@
+TabFlow Pixel One-Click Dream Bridge
+Copyright 2026 TabFlow Dream Bridge contributors
+
+The Dream Bridge source files in src/ and the compile-one-click.cmd build
+script are made available under the Apache License, Version 2.0.
+
+This distribution can also contain the following pre-existing binary
+components recovered from the user-supplied TabFlow Pixel Virtual Program
+One-Click application:
+
+  components/Compiler.exe
+  components/Virtualizer.exe
+
+Those pre-existing binary components were not authored as part of the Dream
+Bridge repair and are not relicensed by the Apache License included here.
+Their original ownership and license terms, if any, continue to apply. They
+are packaged as a separate download part so an authorized TabFlow owner can
+rebuild the bridge. Redistribution requires the appropriate rights to those
+components.
+
+The names TabFlow and TabFlow Pixel are used to identify compatibility with
+the supplied software. The Apache License does not grant trademark rights.
+
+This NOTICE is informational and does not modify the Apache License.
